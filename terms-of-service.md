@@ -2,7 +2,7 @@
 
 Last Updated: 28.11.2025
 
-Thank you for using <BOT_NAME>. By inviting or interacting with the bot, you agree to the following terms.
+Thank you for using Killa-Bot. By inviting or interacting with the bot, you agree to the following terms.
 
 ---
 
